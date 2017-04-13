@@ -1,0 +1,25 @@
+We use the term ”supermathematics” to encompass all the various extensions of
+Alice Roger’s original work on G∞ supermanifolds. Background on how numbers,
+functions, linear algebra, matrix calculations, real analysis, complex analysis, manifold
+theory and Lie theory generalize to the context of supermathematics is provided.
+We use countably many Grassmann generators so this work is within the realm of
+infinite dimensional Banach space theory.
+We find that Lie’s Third Theorem holds for G∞ super Lie groups. We also prove
+that the exponential mapping and other standard constructions in Lie theory apply
+equally well in the G∞ setting. Portions of this work are similar to existing research,
+but our proofs are distinct and we have focused on the G∞ category with infinitely
+many Grassmann generators. Other workers typically either use finitely many Grassmann
+generators or focus attention to the superanalytic category.
+We provide a supersmooth principle fiber bundle framework for super gauge theory.
+Special sections are constructed and provide pure gauge solutions on zero curvature
+submanifolds. Quotient spaces and bundles are used to implement certain
+physical constraints. We apply these general geometric constructions to recover the
+superfield transformation laws of N = 1 super Yang-Mills theory.
+We develop a gauged Wess-Zumino model in noncommutative Minkowski superspace.
+This is a natural extension of the work of Carlson and Nazaryan, who extended
+N = 1/2 supersymmetry over deformed Euclidean superspace to Minkowski superspace.
+Noncommutativity is implemented by replacing products with star products.
+As in the N = 1/2 theory, a reparameterization of the gauge parameter, vector superfield
+and chiral superfield are necessary to write standard C-independent gauge
+theory. However, our choice of parametrization differs from that used in the N = 1/2
+supersymmetry, which leads to some unexpected new terms.
